@@ -234,8 +234,8 @@
         <!-- KOP MANDATORY -->
         <div class="kop-surat">
             <h1>PANITIA PENILAIAN SUMATIF AKHIR TAHUN (PSAT)</h1>
-            <h2>SEKOLAH MENENGAH ATAS PEMBANGUNAN NASIONAL</h2>
-            <p>Alamat: Jl. Pembangunan Raya No. 45, Kecamatan Sukamaju, Telepon (021) 855-6677</p>
+            <h2>SMKN 1 GARUT</h2>
+            <p>Alamat: Jl. Cimanuk No. 309 A</p>
         </div>
 
         <div class="judul-halaman">
@@ -330,8 +330,8 @@
                 <div class="ttd-space">
                     <!-- Blank for physical hand sign of principal, or styled signature -->
                 </div>
-                <p class="ttd-nama">H. Ahmad Fauzi, M.Pd.</p>
-                <p class="ttd-sub">NIP. 197405232002121003</p>
+                <p class="ttd-nama">Dr. H. Asep Rudiana, M.Pd.</p>
+                <p class="ttd-sub">NIP. 197009051997021001</p>
             </div>
             
             <div class="ttd-col">
