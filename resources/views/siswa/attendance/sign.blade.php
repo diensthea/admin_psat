@@ -75,7 +75,7 @@
         const signatureInput = document.getElementById('signature_siswa');
 
         // Set line styles for canvas
-        ctx.strokeStyle = '#047857'; // custom emerald theme for students
+        ctx.strokeStyle = '#1d4ed8'; // blue theme/standard blue pen for students
         ctx.lineWidth = 3;
         ctx.lineCap = 'round';
         ctx.lineJoin = 'round';
