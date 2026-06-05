@@ -172,8 +172,8 @@
                 <p class="font-semibold text-gray-800">Mengesahkan,</p>
                 <p class="font-bold text-gray-900">Kepala Sekolah,</p>
                 <div class="h-20"></div>
-                <p class="font-bold text-gray-950 underline">H. Ahmad Fauzi, M.Pd.</p>
-                <p class="text-xs text-gray-500">NIP. 197405232002121003</p>
+                <p class="font-bold text-gray-950 underline">Dr. H. Asep Rudiana, M.Pd.</p>
+                <p class="text-xs text-gray-500">NIP. 197009051997021001</p>
             </div>
         </div>
     </div>
